@@ -1,0 +1,62 @@
+人类帝国的大部分地区有昼夜变化。在白昼，天空明亮，视野清晰，气温一般较高，大多数帝国公民开展日常劳动；在黑夜，天空黑暗，照明需要依赖人造光源，自然界的危险性更高，气温一般较低，大多数帝国公民在固定的住所休息，直到天亮。极少数地区的昼夜变化不明显甚至完全不存在昼夜变化（如坳山市周边地区永远处于半明半暗的黄昏状态），这些地区的帝国公民传统上没有统一的作息规律。
+
+在有昼夜变化的地区，每一个昼夜周期的长度保持恒定，这一周期被人为均分为108刻用以计时；但同一周期内昼长和夜长随季节而变化，热季昼长夜短，冷季昼短夜长。在物理学上的同一个时间点上，帝国各地在一个昼夜周期内所处的相位（即“地方时”）也有所不同，例如以帝国首都京师市地方时为标准时间，则东都仓谷市的地方时早26.3刻，而西都古德沃斯市的地方时晚65.9刻。
+
+（涉及现实位面的注解：不能认为“108刻=24小时”或据此把刻换算成时分秒等。人类帝国位面中的“时间”和现实位面中的时间是完全不同性质的物质，刻也是独立于时分秒的单位，两者之间完全不存在任何等量关系，换算没有意义。不在潜意识里把架空世界和现实位面扯上关系是讨论任何架空世界作品时一项基本的素质。后同。）
+
+需要注意的是，在帝国，地方时与该地的东西向坐标之间并不存在任何直接联系，而是需要以一种类似于等高线图的“等时线图”来描述，其分布相当复杂。例如，帝国南部沿海重要城市岭海市虽然就在京师正南方，却相对于京师有着+4.9的时差，而在两者的连线上还存在地方时更早的地点。伊齐赫市虽在地理上与周边城市临近，与京师的时差却达到了惊人的-142.1，甚至超过了一整个昼夜。在伊齐赫市的西北郊，更是有着闻名全国的“阴阳分明”（"Chocolate & Milk"）景观：该地区的等时线极其密集，有的地方相距不足1公里，形成了一个等时线组成的“陡崖”，因此在特定时候抬头就可以看到天空一边白一边黑，十分壮观。
+
+目前有记录的最早隐约察觉到时差现象的古人是数百年前的一位长途商人哈姆德·哈比比。他在自己的游记中写到：“我们的驼队走出塔利亚以后，队里有个精力旺盛的小子，他一直很有兴趣地观察着我刚从塔利亚换来的一些精密仪器。其中最让他着迷的还是那个装着沙子的容器了，当地人叫它沙漏。他不信这东西真能那么精确地计时，于是就整天亲自拉着它跑，每当看到它漏完的时候就把它翻过来。……结果在卡坦诺夫斯克休息的时候，我们问了问当地准时上工的纤夫，发现沙漏和他们说的时间根本不一样，差了整整20刻！按理说塔利亚的工艺不可能这么粗糙。肯定是这小子跑得太急，把沙漏颠坏了！……”
+
+为行政方便，帝国以行政区为单位将全境划分为若干时区，以各行政区首府和重要城市为参照，将区时对齐到与帝国标准时间相差12刻的整数倍或半整数倍。例如京师市为零时区，而仓谷市为正二时区（26.3≈2×12），古德沃斯市为负五半时区（65.9≈5.5×12）。如果某地区的等时线比较密集，则时区划分也会相应变细。而对于坳山市等不存在昼夜变化的地区，等时线图将会出现“破洞”（因为根本无法确认昼夜意义上的地方时），行政上就近纳入附近有昼夜变化的时区。当帝国公民穿越时区界时，其随身携带的计时设备应根据位置信息自动调整为新的区时。
+
+历届帝国政府均高度重视时间变化问题。第一张在军事和民生领域广泛使用的全境高精度等时线图是在帝国14年，由帝国测绘局踏勘了全境220万余个观测点位绘制而成的。下表附帝国一部分重要城市政府驻地的地方时和所划定的时区。
+
+城市 时差 行政时区
+京师(Jingshi)  0  0
+岭海(Linghai)  +4.9  0
+仓谷(Kuratani)  +26.3 +2
+埃尔蒙多(El Mundo)  +45.0  +4
+济拉(Zira)  +72.0  +6
+塔利亚(Talia)  +89.5  +7.5
+坳山(Aoshan)  N/A  +7.5  ①
+多吉(Dorje)  -9.8  -1
+荒之原(Aranohara)  -37.1  -3
+卡坦诺夫斯克(Katanovsk)  -38.3  -3
+古德沃斯(Goodworth)  -65.9 -5.5
+格林蒙特(Greenmount)  -96.0  -8
+伊齐赫(Itsix)  -142.1  -12  ②
+
+①：跟随塔利亚。
+②：由于在从京师到伊齐赫的连线上，时差是连续变化的，因此该时差不会模108，而是体现在日期上：后者的日期永远会比前者晚至少一天。例如京师时间为某日54刻时，伊齐赫时间是前一日18刻。
+
+Most regions of the Human Empire experience day-night cycles. During the day, the sky is bright, visibility is clear, and temperatures are generally higher, with most Imperial citizens engaging in daily labor. At night, the sky is dark, illumination relies on artificial light sources, natural dangers increase, temperatures are generally lower, and most Imperial citizens rest in fixed dwellings until dawn. In very few regions, day-night cycles are indistinct or entirely absent (e.g., the area around Aoshan City remains perpetually in a twilight state of semi-light and semi-darkness). Traditionally, citizens in these regions lack a unified daily routine.
+
+In areas with day-night cycles, the length of each cycle remains constant and is artificially divided into 108 moments for timekeeping. However, the durations of day and night within a cycle vary with the seasons: longer days and shorter nights in the hot season, and shorter days and longer nights in the cold season. At the same physical moment in time, different regions of the Empire may be at different phases of the day-night cycle (i.e., "local time"). For example, using the local time of the Imperial capital, Jingshi City, as the standard time, Kuratani City in the East has a local time 26.3 moments earlier, while Goodworth City in the West has a local time 65.9 moments later.
+
+It is important to note that in the Empire, local time is not directly linked to east-west coordinates but must be described using an "isochronal map," similar to a contour map, with a highly complex distribution. For instance, Linghai City, a major coastal city in the south, lies directly south of Jingshi but has a time difference of +4.9 moments relative to the capital. Along the line connecting the two, there are even locations with earlier local times. Itsix City, though geographically close to neighboring cities, has an astonishing time difference of -142.1 moments relative to Jingshi—exceeding an entire day-night cycle. In the northwest outskirts of Itsix, there is a nationally famous "Chocolate & Milk" landscape: the isochronal lines here are extremely dense, with some areas less than 1 kilometer apart forming an isochronal "cliff." At certain times, one can look up and see the sky split into light and dark halves, creating a spectacular sight.
+
+The earliest recorded figure to vaguely perceive time differences was a long-distance merchant named Hamud Habibi centuries ago. In his travelogue, he wrote: "After our caravan left Talia, there was an energetic young man in the group who took great interest in observing some precision instruments I had just acquired in Talia. Among them, he was most fascinated by the sand-filled container the locals called an hourglass. He didn’t believe it could keep time so accurately, so he carried it around all day, flipping it whenever the sand ran out... But when we rested in Katanovsk and asked the local punctual dockworkers for the time, we found the hourglass and their time didn’t match at all—they were off by a full 20 moments! Talian craftsmanship couldn’t possibly be so crude. The boy must have jostled the hourglass too much while running!"  
+
+For administrative convenience, the Empire divides its territory into time zones based on administrative regions, aligning zone times to integer or half-integer multiples of 12 moments relative to Imperial Standard Time (using the capitals and major cities of each administrative region as reference points). For example, Jingshi City is in the zero time zone, Kuratani City is in the +2 time zone (26.3 ≈ 2×12), and Goodworth City is in the -5.5 time zone (65.9 ≈ 5.5×12). If isochronal lines are densely packed in a region, time zones are correspondingly subdivided. For regions like Aoshan City without day-night cycles, the isochronal map contains "holes" (since local time in the day-night sense cannot be determined), and such areas are administratively assigned to nearby time zones with day-night cycles. When Imperial citizens cross time zone boundaries, their personal timekeeping devices should automatically adjust to the new zone time based on location data.
+
+Successive Imperial governments have placed high importance on time variation. The first high-precision, empire-wide isochronal map widely used in military and civil applications was completed in the 14th year of the Empire by the Imperial Survey Bureau, which surveyed over 2.2 million observation points across the territory. The table below lists the local times and assigned time zones for some major Imperial cities.  
+
+| City               | Time Difference | Administrative Time Zone |  
+|--------------------|------------------|---------------------------|  
+| Jingshi           | 0                | 0                         |  
+| Linghai           | +4.9             | 0                         |  
+| Kuratani          | +26.3            | +2                        |  
+| El Mundo          | +45.0            | +4                        |  
+| Zira              | +72.0            | +6                        |  
+| Talia             | +89.5            | +7.5                      |  
+| Aoshan            | N/A              | +7.5 ①                    |  
+| Dorje             | -9.8             | -1                        |  
+| Aranohara           | -37.1            | -3                        |  
+| Katanovsk         | -38.3            | -3                        |  
+| Goodworth         | -65.9            | -5.5                      |  
+| Greenmount        | -96.0            | -8                        |  
+| Itsix             | -142.1           | -12 ②                      |  
+
+①: Follows Talia.  
+②: Since the time difference changes continuously along the line from Jingshi to Itsix, it does not modulo 108 but instead affects the date: the latter’s date will always be at least one day behind the former’s. For example, when it is 54 moments on a given day in Jingshi, the time in Itsix is 18 moments of the previous day.
