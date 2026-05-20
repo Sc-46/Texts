@@ -21,7 +21,7 @@
 塔利亚(Talia)  +89.5  +7.5
 坳山(Aoshan)  N/A  +7.5  ①
 多吉(Dorje)  -9.8  -1
-荒之原(Aranohara)  -37.1  -3
+崖之下(Kagenomoto)  -37.1  -3
 卡坦诺夫斯克(Katanovsk)  -38.3  -3
 古德沃斯(Goodworth)  -65.9 -5.5
 格林蒙特(Greenmount)  -96.0  -8
